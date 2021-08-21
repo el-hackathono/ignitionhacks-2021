@@ -456,7 +456,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.7.1 <3.11"
-content-hash = "5193fa995e4683b522ec323dd5caee365f99f0ecbc4b19b5f18f1134c705613f"
+content-hash = "0c464dd10c8b2faca78e631af0bb7924fb47a516ad45572a3126c18caa9c23b0"
 
 [metadata.files]
 certifi = [
